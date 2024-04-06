@@ -1,2 +1,5 @@
 # Personal Finance Dashboard
-This repository holds a web app that allows you to track spending, budget, net worth growth, and other personal finance metrics.
+This repository will ultimately hold a web app that provides information regarding the user's spending, budgeting, and net worth tracking.
+
+Version 1.0.0
+- This web app tracks user-defined budgeting categories and transactions
